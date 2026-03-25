@@ -104,3 +104,6 @@ git config --global user.name "Ashkannvafa"
 git config --global user.email "ashkanv952@gmail.com"
 git remote add origin https://github.com/Ashkannvafa/holbertonschool-shell.git
 git remote -v
+git add .
+git commit -m "new project"
+vim .gitignore
