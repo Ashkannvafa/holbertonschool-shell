@@ -107,3 +107,11 @@ git remote -v
 git add .
 git commit -m "new project"
 vim .gitignore
+git add .
+git commit -m "new project"
+ls
+rm README.md 
+ls
+git add init_files_variables_and_expansions/
+git commit -m "new project"
+git add >
