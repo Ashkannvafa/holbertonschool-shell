@@ -115,3 +115,11 @@ ls
 git add init_files_variables_and_expansions/
 git commit -m "new project"
 git add >
+git add .
+git commit -m "new project"
+git branch -M main
+git push -u origin main
+git pull origin main --rebase
+git pull origin main
+git push -u origin main
+git pull origin main --no-rebase --allow-unrelated-histories
